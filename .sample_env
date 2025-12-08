@@ -1,0 +1,12 @@
+SECRET_KEY=secretgit
+DEBUG=1
+ALLOWED_HOSTS=*
+
+DB_USER=postgres
+DB_HOST=localhost
+DB_PORT=5432
+DB_PASSWORD=postgres
+DB_NAME=campaign_manager
+
+LOCATION=redis://127.0.0.1:6379/1
+
